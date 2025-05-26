@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "663f2d621e3ec97f4ecf87df"
+  },
+  "link": "",
+  "jd": "CTO / Co-Founder / Frontend Engineer ",
+  "company": "MyAuct.bid (Remote | NG)",
+  "dateStart": "Jan 2024",
+  "dateEnd": "Present",
+  "desc": " Co-founding this startup requires me to build the entire User Interface and ensure quality control. Working together with the team to ensure a succesful business for our unique online bidding experience",
+  "tag": "auct-cto"
+},
+{
+  "_id": {
+    "$oid": "663f2d791e3ec97f4ecf87e0"
+  },
+  "link": "",
+  "jd": "Chief Tecnology Officer ",
+  "company": " The House Of Sounds (Remote | UK)",
+  "dateStart": "Jan 2024",
+  "dateEnd": "Present",
+  "desc": "  As CTO i oversee the technolgy arm of the organisation through code reviews, debugging sessions, software architecture and to keep the team motivated while they build innovative digital solutions",
+  "tag": "hos-cto",
+  "premium": true
+},
+{
+  "_id": {
+    "$oid": "663f2d881e3ec97f4ecf87e1"
+  },
+  "link": "",
+  "jd": "Head of Engineering Operations",
+  "company": "CECURE INTELLIGENCE LTD (Remote | UK)",
+  "dateStart": "Nov 2023",
+  "dateEnd": "Present",
+  "desc": " The welfare of the engineering team fell under my control as i gained a promotion from Frontend Engineering Lead to help fix the issues identified in the rest of the engineering team./n I spend my time creating solutions to a wide range of business technical issues arising from a tonne of client engagements on a daily basis.",
+  "tag": "cil-eng",
+  "premium": true
+},
+{
+  "_id": {
+    "$oid": "663f2d971e3ec97f4ecf87e2"
+  },
+  "link": "",
+  "jd": "CTO/ Frontend Engineer ",
+  "company": "Lab11 Ltd (Remote | NG)",
+  "dateStart": "Jan 2023",
+  "dateEnd": "Present",
+  "desc": " Co-founding this startup requires me to build the entire User Interface and ensure quality control. Working together with the team to ensure digital ai powered solutions to enterprise and end users.",
+  "tag": "vec-cto",
+  "premium": true
+},
+{
+  "_id": {
+    "$oid": "663f2dad1e3ec97f4ecf87e3"
+  },
+  "link": "",
+  "jd": " Frontend Engineering Lead",
+  "company": "CECURE INTELLIGENCE LTD (Remote | UK)",
+  "dateStart": "May 2021",
+  "dateEnd": "Nov 2023",
+  "desc": " My tasks at this role started out managing about 5 frontend enineers and building digital products for clients. I was also part of the team responsible for creating the Cil Academy frontend Zero to Techie curriculum which has helped over 100 fronend engineers over the past 3 years. I have been able to mentor engineers with no knowledge and proudly helped them become proficient in the technologies used by the Organisation.",
+  "tag": "cil-feL",
+  "premium": true
+},
+{
+  "_id": {
+    "$oid": "663f2dbb1e3ec97f4ecf87e4"
+  },
+  "link": "",
+  "jd": " Frontend Engineer",
+  "company": "CECURE INTELLIGENCE LTD (Remote | UK)",
+  "dateStart": "May 2021",
+  "dateEnd": "Present",
+  "desc": " Building innovative and user friendly frontend applications for web and mobile.",
+  "tag": "cil-fe",
+  "premium": true
+},
+{
+  "_id": {
+    "$oid": "663f2dcb1e3ec97f4ecf87e5"
+  },
+  "link": "",
+  "jd": "Information Technology Business Manager",
+  "company": "PANDO LED LIGHTS (Onsite | Lagos,Nigeria)",
+  "dateStart": "Jan 2020",
+  "dateEnd": "Apr 2021",
+  "desc": "Planning, research, and execution. /n Front-end development, branding, content creation, and digital marketing.",
+  "tag": "pan-man",
+  "premium": true
+},
+{
+  "_id": {
+    "$oid": "663f2dda1e3ec97f4ecf87e6"
+  },
+  "link": "",
+  "jd": " Web developer",
+  "company": "AlignFlux (Remote | Lefke ,Cyprus)",
+  "dateStart": "Feb 2019",
+  "dateEnd": "Sep 2019",
+  "desc": "Worked as a web developer using the Python Django framework.",
+  "tag": "web-aflux",
+  "premium": true
+},
+{
+  "_id": {
+    "$oid": "663f2de91e3ec97f4ecf87e7"
+  },
+  "link": "",
+  "jd": " Graduate Student Assistant",
+  "company": " EUL (Onsite | Lefke ,Cyprus)",
+  "dateStart": "Dec 2017",
+  "dateEnd": "Feb 2019",
+  "desc": " I assisted the students of the 'Introduction to Computers' programming course with their labs. This helped the faculty members and fellow graduate assistants..",
+  "tag": "eul-gra",
+  "premium": true
+},
+{
+  "_id": {
+    "$oid": "663f2dfd1e3ec97f4ecf87e8"
+  },
+  "link": "",
+  "jd": " IT Manager",
+  "company": " Lyncrest International College (Onsite | Lagos ,Nigeria)",
+  "dateStart": "Dec 2013",
+  "dateEnd": "Feb 2017",
+  "desc": "Research and create study plans to teach computing. /n Developed soft copy lecture contents into static websites and hosted for the learners to access more in the form of online articles./n Developed a the teaching material into an android mobile application to make it more accessible to the learners./n Made classes so interesting and interactive that the learners achieved one hundred percent distinction rates in their JSCE exams in 2016.",
+  "tag": "lyn-man",
+  "premium": true
+}]
