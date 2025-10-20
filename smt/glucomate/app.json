@@ -1,0 +1,63 @@
+{
+  "expo": {
+    "name": "GlucoMate",
+    "slug": "glucomate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/glucicon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "description": "A comprehensive glucose tracking app with biometric security, trend insights, and data export capabilities",
+    "primaryColor": "#2563eb",
+    "splash": {
+      "image": "./assets/gluclogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2563eb"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.iroro1.glucomate",
+      "buildNumber": "1.0.0",
+      "infoPlist": {
+        "NSFaceIDUsageDescription": "We need to use Face ID to securely authenticate you and protect your health data.",
+        "NSCameraUsageDescription": "Camera access is required for document scanning features."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/glucicon.png",
+        "backgroundColor": "#2563eb"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.iroro1.glucomate",
+      "versionCode": 1,
+      "permissions": ["USE_BIOMETRIC", "USE_FINGERPRINT"],
+      "compileSdkVersion": 34,
+      "targetSdkVersion": 34,
+      "minSdkVersion": 21
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "name": "GlucoMate",
+      "shortName": "GlucoMate",
+      "description": "Track and manage your glucose levels",
+      "themeColor": "#2563eb",
+      "backgroundColor": "#ffffff"
+    },
+    "plugins": [
+      "expo-secure-store",
+      [
+        "expo-local-authentication",
+        {
+          "faceIDPermission": "Allow GlucoMate to use Face ID for secure authentication."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "glucomate-production"
+      }
+    }
+  }
+}
